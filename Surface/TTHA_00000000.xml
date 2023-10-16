@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>T2m, height corr.</VAR>
+<UNIT>deg C</UNIT>
+<PERIOD>20230701-20230715</PERIOD>
+</STAT>
