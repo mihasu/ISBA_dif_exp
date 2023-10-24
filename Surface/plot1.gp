@@ -14,4 +14,4 @@ set logscale x
  set arrow  2 from  5000.00000,graph 0.05 to  5000.00000,graph 0.01 lt -1 lw 2 
  set arrow  3 from  10000.0000,graph 0.05 to  10000.0000,graph 0.01 lt -1 lw 2 
  set arrow  4 from  20000.0000,graph 0.05 to  20000.0000,graph 0.01 lt -1 lw 2
- plot 'c_00000000_00000000_ALL_ALL_VI_0_ISBA_ref_CY46h1.scores2' using 2:13 title 'OBS' with linespoints lt 3 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_ISBA_ref_CY46h1.scores2' using 2:14 title 'ISBA_ref_CY46h1' with linespoints lt 1 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_ISBA_surfscheme_C43h2_ref.scores2' using 2:14 title 'ISBA_surfscheme_C43h2_ref' with linespoints lt 2 lw 2 pt 7
+ plot 'c_00000000_00000000_ALL_ALL_VI_0_CY46ref.scores2' using 2:13 title 'OBS' with linespoints lt 4 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_CY46ref.scores2' using 2:14 title 'CY46ref' with linespoints lt 1 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_C43h2ref.scores2' using 2:14 title 'C43h2ref' with linespoints lt 2 lw 2 pt 7,'c_00000000_00000000_ALL_ALL_VI_0_CY46dif.scores2' using 2:14 title 'CY46dif' with linespoints lt 3 lw 2 pt 7

@@ -17,8 +17,8 @@ t[4] = ['Mslp','U10m','Max Wind Gust','Wind direction','T2m','T2m, height corr.'
 v[5] = [0]
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['ISBA_ref_CY46h1','ISBA_surfscheme_C43h2_ref']
-t[6] = ['ISBA_ref_CY46h1','ISBA_surfscheme_C43h2_ref']
+v[6] = ['CY46ref','C43h2ref','CY46dif']
+t[6] = ['CY46ref','C43h2ref','CY46dif']
 v[7] = ['ALL'] ;
 t[7] = v[7] ;
 

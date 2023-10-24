@@ -17,8 +17,8 @@ t[4] = ['Temperature','Dew point T','Wind speed','Wind direction','Geopotential'
 v[5] = ['925','850','700','500','300','200','150','100','50']
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['ISBA_ref_CY46h1_ISBA_surfscheme_C43h2_ref']
-t[6] = ['ISBA_ref_CY46h1_ISBA_surfscheme_C43h2_ref']
+v[6] = ['CY46ref_C43h2ref','CY46ref_CY46dif']
+t[6] = ['CY46ref_C43h2ref','CY46ref_CY46dif']
 v[7] = ['ALL','00','12'] ;
 t[7] = v[7] ;
 
